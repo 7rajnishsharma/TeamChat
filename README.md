@@ -51,4 +51,18 @@ To clone the repo, you can use the following command:
 `git clone https://github.com/7rajnishsharma/TeamChat.git`
 
 By following these simple steps, you contribute to the project's growth. Your contributions are greatly appreciated!
+
+## Features 
+
+### Lobby
+• Create a room by entering your name and room name.
+
+### Room
+• Chat with people in the room using video chat, voice chat, or text messaging.
+• Share your screen with other people in the room.
+
+### Share Screen
+• Present your screen to other people in the room.
+• Share a specific window or application on your screen.
+• Control the screen sharing with other people in the room.
  
