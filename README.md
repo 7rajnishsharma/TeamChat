@@ -12,18 +12,6 @@ I have integrated the [Agora](https://www.agora.io/en/) API on this website, to 
  - A webcam
  
 
-## How to use
-
-- Go to the website.
-- Click the "Join Meeting" button.
-- Enter a name and click the "Join" button.
-- The meeting will start.
-- To start video chat, click the "Video" button.
-- To start voice chat, click the "Voice" button.
-- To send a chat message, type your message in the chatbox and press Enter.
-- To share your screen, click the "Share Screen" button.
-
-
 ## Contributing Code
 
 To contribute code to the project, follow these steps:
@@ -52,11 +40,13 @@ By following these simple steps, you contribute to the project's growth. Your co
   
 ![lobby](https://github.com/7rajnishsharma/TeamChat/assets/111423953/9a13ebd0-5c45-44da-b3e1-a38b11662613)
 
+
 ### Room
 - Chat with people in the room using video chat, voice chat, or text messaging.
 - Share your screen with other people in the room.
   
 ![room](https://github.com/7rajnishsharma/TeamChat/assets/111423953/8e45e3be-f678-432a-bf04-ad90a80aed46)
+
 
 ### Share Screen
 - Present your screen to other people in the room.
