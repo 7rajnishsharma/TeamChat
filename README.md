@@ -31,5 +31,7 @@ This website allows users to have video chat, voice chat, chatbox, and screen sh
 7.	To send a chat message, type your message in the chatbox and press Enter.
 8.	To share your screen, click the "Share Screen" button.
 
+## Contributing
+I welcome contributions to this repository! If you find a bug or have an idea for a new feature, please submit an issue on GitHub. If you would like to contribute code, please fork the repository and submit a pull request with your changes. Please ensure that your code follows the project's coding standards and is well-documented.
 
  
