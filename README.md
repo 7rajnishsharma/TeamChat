@@ -18,7 +18,7 @@ This website allows users to have video chat, voice chat, chatbox, and screen sh
  
  •	A microphone and speakers
  
- •	A webcam (optional)
+ •	A webcam
  
 ## How to use
 
@@ -31,7 +31,22 @@ This website allows users to have video chat, voice chat, chatbox, and screen sh
 7.	To send a chat message, type your message in the chatbox and press Enter.
 8.	To share your screen, click the "Share Screen" button.
 
-## Contributing
-I welcome contributions to this repository! If you find a bug or have an idea for a new feature, please submit an issue on GitHub. If you would like to contribute code, please fork the repository and submit a pull request with your changes. Please ensure that your code follows the project's coding standards and is well-documented.
+## Contributing Code
 
+To contribute code to the project, follow these steps:
+
+1. Fork the repository to your GitHub account.
+2. Create a new branch from the `main` branch for your work.
+3. Make your changes, ensuring they adhere to our coding standards.
+4. Test your changes thoroughly.
+5. Document your code to make it easy for others (and your future self) to understand.
+6. Submit a pull request from your branch to our `main` branch.
+
+
+### To Clone the Repository
+
+To clone the repo, you can use the following command:
+`git clone https://github.com/7rajnishsharma/TeamChat.git`
+
+By following these simple steps, you contribute to the project's growth. Your contributions are greatly appreciated!
  
