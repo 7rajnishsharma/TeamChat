@@ -2,7 +2,7 @@
 
 This website allows users to have video chat, voice chat, chatbox, and screen sharing meetings. It is built using WebRTC, a technology that allows real-time communication between browsers.
 
-I utilized the Agora.io API to integrate real-time voice, video, and chat functionalities on this website. This empowers users with captivating and interactive experiences.
+I have integrated the [Agora](https://www.agora.io/en/) API on this website, to offer real-time voice, video, and chat capabilities. This integration enables my users to enjoy engaging and interactive experiences.
 
 ## Features
 
